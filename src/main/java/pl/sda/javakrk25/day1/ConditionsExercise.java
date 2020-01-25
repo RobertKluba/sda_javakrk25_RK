@@ -12,7 +12,7 @@ public class ConditionsExercise {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Type one digit:");
         int digit = scanner.nextInt();
-        // zmiany
+        // zmia
 
         switch (digit) {
             case 1: {
