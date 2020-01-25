@@ -4,11 +4,14 @@ import java.util.Scanner;
 
 public class ConditionsExercise {
 
+    // stworzyć program który generuje historię z losowych liczb
+
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Type one digit:");
         int digit = scanner.nextInt();
+
 
         switch (digit) {
             case 1: {
