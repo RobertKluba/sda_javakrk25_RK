@@ -5,13 +5,14 @@ import java.util.Scanner;
 public class ConditionsExercise {
 
     // Stwórz program który generuje historię z losowych liczb
+    // test changes - master
 
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Type one digit:");
         int digit = scanner.nextInt();
-
+        // zmiany
 
         switch (digit) {
             case 1: {
