@@ -6,6 +6,7 @@ public class ConditionsExercise {
 
     // Stwórz program który generuje historię z losowych liczb
     // test changes - master
+    // test change 1
 
     public static void main(String[] args) {
 
