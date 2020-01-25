@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ConditionsExercise {
 
-    // stworzyć program który generuje historię z losowych liczb
+    // Stwórz program który generuje historię z losowych liczb
 
     public static void main(String[] args) {
 
